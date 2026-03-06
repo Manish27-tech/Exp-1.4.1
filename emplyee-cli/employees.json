@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Sidhant Gupta",
+    "age": 24,
+    "department": "Software"
+  },
+  {
+    "id": 2,
+    "name": "MD Aamir",
+    "age": 23,
+    "department": "Cleaning"
+  },
+  {
+    "id": 3,
+    "name": "MAnish Pandey",
+    "age": 25,
+    "department": "Manager"
+  },
+  {
+    "id": 4,
+    "name": "Lucky Jha",
+    "age": 25,
+    "department": "HR Manager"
+  }
+]
